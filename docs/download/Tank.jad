@@ -1,0 +1,8 @@
+MIDlet-1: Tank, logo.png, Tank
+MIDlet-Jar-Size: 75295
+MIDlet-Jar-URL: Tank.jar
+MIDlet-Name: Tank
+MIDlet-Vendor: Unknown
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-2.0

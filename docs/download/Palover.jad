@@ -1,0 +1,8 @@
+MIDlet-1: Palover, /logo.png, Palover
+MIDlet-Jar-Size: 100451
+MIDlet-Jar-URL: Palover.jar
+MIDlet-Name: Palover
+MIDlet-Vendor: Blue Leaf Culture
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-2.0
